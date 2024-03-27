@@ -18,6 +18,10 @@ This repository contains implementations of fundamental data structures using th
 2. Compile the C files using a C compiler.
 3. Run the executable to interact with the implemented data structures.
 4. Follow the prompts to perform various operations such as insertion, deletion, and display.
+5. **Important Note**: Compile and run the `index.c` file to access a menu-driven interface allowing you to interact with all implemented data structures.
+
+Note: This project may not be compatible with other IDEs or compilers due to specific features or dependencies used. It is recommended to use Dev-C++ for optimal experience.
+
 
 ## Contributors
 
